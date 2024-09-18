@@ -1,0 +1,53 @@
+#font1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.protest-guerrilla-regular {
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#font2{
+font-size:40px;
+}
+#font3{
+    font-weight:bold;
+}
+#dec1{
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+#dec2 {
+    text-decoration: overline;
+    text-transform: uppercase;
+}
+#dec3 {
+    text-decoration: line-through;
+    text-transform: lowercase;
+}
+#dec4 {
+    text-decoration:underline;
+    text-transform: none;
+}
+#shadow1{
+    text-shadow: 1px 4px 10px grey;
+}
+#shadow2{
+    box-shadow: 2px 2px 2px red;
+}
+#indent1{
+    text-indent: 10%;
+}
+#div1{
+    width: 500px;
+    height: 100px;
+    border: 5px solid red;
+    background-color: cadetblue;
+    transform: rotatey(180deg);
+}
+#div2 {
+    width: 500px;
+    height: 100px;
+    border: 5px solid red;
+    background-color: cadetblue;
+    transform: scale(1.5);
+}
